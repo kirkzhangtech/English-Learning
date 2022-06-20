@@ -1,4 +1,14 @@
-abandon vt.离弃，丢弃；遗弃，抛弃；放弃
+# Postgraduate Admission Test
+
+abandon vt.离弃，丢弃；遗弃，抛弃；放弃  
+
+1. to leave someone, especially someone you are responsible for.  
+    - How could she abandon her own child? --> 你怎么会抛弃你的孩子
+2. go away from a place, vehicle etc permanently, especially because the situation makes it impossible for you to stay  
+    - We had to abandon the car and walk the rest of the way --> 我们不得不抛弃汽车，走剩下的路
+
+
+
 abdomen n.腹，下腹(胸部到腿部的部分)
 abide vi.(abode,abided)(by)遵守；坚持
 ability n.能力；本领；才能，才干；专门技能，天资
